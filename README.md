@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! I'm Lucas Moço  👋
 
-<!--
-**mocolucas/mocolucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Studying: Design at [PUC-Campinas](https://www.puc-campinas.edu.br/)
+- 🎒 Main Tools: Visual Studio Code, GitHub and Adobe;
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/mocolucas/mocolucas">
+  <img height= 90em , align= 'top' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mocolucas&theme=dracula" />
+</a>
+<a href="https://github.com/ricarthlima/mocolucas">
+  <img height= 180em src = "https://github-readme-stats.vercel.app/api?username=mocolucas&show_icons=true&theme=dracula" />
+</a>
